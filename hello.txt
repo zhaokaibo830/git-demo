@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 hello git!master
 hello git!master
+=======
+hello git! hot-fix
+hello git!
+>>>>>>> hot-fix
 hello git!
 hello git!
 hello git!
